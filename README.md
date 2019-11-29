@@ -1,6 +1,6 @@
 # SendEmail
 Python3内置对SMTP的支持，可以发送纯文本邮件、图片邮件以及带附件的邮件
-支持QQ、163、Outlook邮箱
+# 支持QQ、163、Outlook邮箱
 
 ## 具体见：
 - QQ邮件和163邮件纯文本 https://zhangvalue.blog.csdn.net/article/details/103292721

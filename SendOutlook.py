@@ -17,7 +17,7 @@ def sendmail():
     sub = 'outlook python mail test'
     body = 'my test\r\n my python mail'
     outlook = win32.Dispatch('outlook.application')
-    receivers = ['zhangshengfan@jd.com']
+    receivers = ['xxx@xxx.com']
     mail = outlook.CreateItem(0)
     mail.To = receivers[0]
     mail.Subject = sub.encode('utf-8').decode('utf-8')
